@@ -14,7 +14,7 @@
     datas = collect_data_files('matplotlib', subdir=None, include_py_files=False)
 
     a = Analysis(
-        ['crochet_pattern_gui_fully_commented.py'],
+        ['Crochet_Pattern_Generator.py'],
         pathex=[],
         binaries=[],
         datas=datas,
