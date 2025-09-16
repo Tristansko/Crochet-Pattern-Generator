@@ -1,0 +1,5 @@
+# Runtime dependencies
+pillow>=10
+matplotlib>=3.8
+numpy>=1.26
+# Tkinter is included with most Python distributions (python-tk / tk on Linux)
